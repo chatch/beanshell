@@ -1,6 +1,8 @@
+# BeanShell
+BeanShell sources imported from [here] (https://search.maven.org/remotecontent?filepath=org/beanshell/bsh/2.0b5/bsh-2.0b5-sources.jar) because the [Beanshell home page](http://www.beanshell.org/) has dead links to the source archive and subversion repository.
 
-An import of BeanShell sources from (https://search.maven.org/remotecontent?filepath=org/beanshell/bsh/2.0b5/bsh-2.0b5-sources.jar)
-
-Beanshell home page (http://www.beanshell.org/) has dead links to the source archive and subversion repository.
-
-See [Quick Start](http://www.beanshell.org/manual/quickstart.html#Download_and_Run_BeanShell) for running the interpreter and GUI.
+## Quick Start
+```
+mvn install
+java -jar target/bsh-2.0b5-jar-with-dependencies.jar
+```
