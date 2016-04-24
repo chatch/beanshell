@@ -1,5 +1,5 @@
 
-An import BeanShell source sfrom (https://search.maven.org/remotecontent?filepath=org/beanshell/bsh/2.0b5/bsh-2.0b5-sources.jar)
+An import of BeanShell sources from (https://search.maven.org/remotecontent?filepath=org/beanshell/bsh/2.0b5/bsh-2.0b5-sources.jar)
 
 Beanshell home page (http://www.beanshell.org/) has dead links to the source archive and subversion repository.
 
